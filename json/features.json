@@ -1,0 +1,28 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "properties": {
+        "name": "Bernardo Dias",
+        "description": "bla bla bla"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.19682843934937, -23.517918376620063]
+      }
+    },
+    {
+      "properties": {
+        "name": "TROPIXEL"
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.069334327692225, -23.443658260797346]
+      }
+    }
+  ]
+}
+
+

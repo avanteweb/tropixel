@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+html,
+body,
+.mapcanvas {
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
+
+body {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+input.search {
+  padding: 1em;
+  position: absolute;
+  top: 10%;
+  right: 2%;
+}
